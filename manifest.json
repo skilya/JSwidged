@@ -5,7 +5,7 @@
             "short_description": "widget.short_description",
             "code": "mycsvc",
             "secret_key": "8f91c6c3023a9a4d98f2966d24c3d0c03878ad9042ffed23950c6e0293b9c963",
-            "version": "0.0.2",
+            "version": "0.0.3",
             "interface_version": 2,
             "init_once": false,
             "locale":[
