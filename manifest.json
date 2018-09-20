@@ -3,9 +3,9 @@
             "name": "widget.name",
             "description": "widget.description",
             "short_description": "widget.short_description",
-            "code": "mycsvc",
-            "secret_key": "8f91c6c3023a9a4d98f2966d24c3d0c03878ad9042ffed23950c6e0293b9c963",
-            "version": "0.0.3",
+            "code": "honey",
+            "secret_key": "8547d48fceca9b10c66197224088de09a8fb9588ada12515fd336c68038b4dd4",
+            "version": "1.0.3",
             "interface_version": 2,
             "init_once": false,
             "locale":[
@@ -15,24 +15,15 @@
             "installation": true
             },
     "locations":[
-            "llist",
+            "lcard-1",
+            "llist-0",
             "settings"
             ],
     "settings":{
-                "login":{
-                        "name": "settings.login",
-                        "type": "text",
-                        "required": true
-                        },
-                "api_key":{
-                        "name": "settings.api_key",
-                        "type": "text",
-                        "required": true
-                        },
-                "account":{
-                        "name": "settings.account",
-                        "type": "text",
-                        "required": true
-                        }
-            }
+			"terms":{
+				"name": "settings.login",
+				"type": "text",
+				"required": true
+			}
+    	}
 }

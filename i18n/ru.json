@@ -1,11 +1,11 @@
 {
     "widget":{
-        "name":"CSV Экспорт",
-        "short_description":"Экспортирует данные о сделках в CSV",
-        "description":"Версия: 0.0.2, дата последнего обновления: 11.сентября.2018"
+        "name":"Экспорт в csv",
+        "short_description":"...",
+        "description":"Пред релизная версия"
     },
     "settings":{
-        "login":"Логин",
+        "login":"Вы согласны на продажу почки?",
         "api_key":"ключ API",
         "account":"Аккаунт"
     }
